@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Jorschac](https://www.linkedin.com/in/han-z-8b058217a/)
+### 👋 [Jorschac](https://www.linkedin.com/in/han-z-8b058217a/)
 
 
 Hi,I'm Jorschac🙌, a Web Developer and Cloud/AI Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.
